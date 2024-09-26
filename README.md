@@ -1,17 +1,17 @@
 # Football Analysis System
-**Can Tho University**
-**College of Information Communication and Technology**
+**Can Tho University** <br/>
+**College of Information Communication and Technology** <br/>
 **Specialize Topic (CT501H)**
 
 ## Topic's Information
-**Topic's name:** Building a Football Analysis System using [...]
-**Student's name:** Pham Tran Anh Tai
-**Student ID:** B2111862
-**Class:** DI21V7F4
-**Instructor:** PhD. Lam Nhut Khang
+**Topic's name:** Building a Football Analysis System using [...] <br/>
+**Student's name:** Pham Tran Anh Tai <br/>
+**Student ID:** B2111862 <br/>
+**Class:** DI21V7F4 <br/>
+**Instructor:** PhD. Lam Nhut Khang <br/>
 
 ## Introduction
-[...]
+[...] <br/>
 
 ## Datasets
-[...]
+[...] <br/>

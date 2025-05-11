@@ -1,7 +1,7 @@
-# Football Analysis System
 **Can Tho University** <br/>
 **College of Information Communication and Technology** <br/>
-**Specialize Topic (CT501H)**
+**Graduation Thesis (CT502H)**
+# Football Analysis System
 
 ## Topic's Information
 **Topic's name:** Building a Football Analysis System using [...] <br/>
